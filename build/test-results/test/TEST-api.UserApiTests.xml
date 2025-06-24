@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="api.UserApiTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-06-24T13:28:39" hostname="MacBook-Air-2.local" time="2.641">
+  <properties/>
+  <testcase name="Проверка фильтра с невалидным значением gender" classname="api.UserApiTests" time="2.641"/>
+  <system-out><![CDATA[Получен статус: 500
+]]></system-out>
+  <system-err><![CDATA[⚠️ Ожидали 400, но сервер вернул: 500 — потенциальный баг в API
+]]></system-err>
+</testsuite>
